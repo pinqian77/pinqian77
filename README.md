@@ -1,6 +1,6 @@
 ### Hi, I’m Pin Qian 👋
 
-[![Campion's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinqian77&count_private=true&show_icons=true)](https://github.com/pinqian77/github-readme-stats)
+[![Campion's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinqian77&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me
 - 😄 A senior undergraduate student at University of Liverpool. 

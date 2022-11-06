@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I’m Pin Qian 👋
+
+[![Campion's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinqian77&count_private=true&show_icons=true)](https://github.com/pinqian77/github-readme-stats)
+
+### About me
+- 😄 A senior undergraduate student at University of Liverpool. 
+- ⚡ Also a shutter manipulator and drone fan, exploring landscape around the world.
+- 📫 Currently, my research interest mainly focuses on Reinforcement Learning (Goal-conditioned and Offline).
 
 <!--
 **pinqian77/pinqian77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

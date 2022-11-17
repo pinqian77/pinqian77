@@ -2,10 +2,11 @@
 
 <!-- [![Campion's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinqian77&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### About me
+#### About me
 - 😄 A senior undergraduate student at University of Liverpool. 
 - ⚡ Also a shutter manipulator and drone fan, exploring landscape around the world.
-- 📫 Currently, my research interest mainly focuses on Reinforcement Learning (Goal-conditioned and Offline).
+- 📫 Currently, my research focus is on reinforcement learning (goal-conditioned and offline). 
+- 🔭 And interested in building human-like and trustworthy agents with control.
 
 <!--
 **pinqian77/pinqian77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

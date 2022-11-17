@@ -5,8 +5,8 @@
 #### About me
 - 😄 A senior undergraduate student at University of Liverpool. 
 - ⚡ Also a shutter manipulator and drone fan, exploring landscape around the world.
-- 📫 Currently, my research focus is on reinforcement learning (goal-conditioned and offline). 
-- 🔭 And interested in building human-like and trustworthy agents with control.
+- 📫 Currently, my research focus is on building human-like and trustworthy agents with control. 
+- 🔭 Interested and believe in reinforcement learning, especially goal-conditioned and offline field.
 
 <!--
 **pinqian77/pinqian77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

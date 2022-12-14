@@ -5,8 +5,8 @@
 #### About me
 - 😄 A senior undergraduate student at University of Liverpool. 
 - ⚡ Also a shutter manipulator and drone fan, exploring landscape around the world.
-- 📫 Currently, my research interest is to building reliable AI-powered systems to solve real-world problems
-<!-- - 🔭 Interested and believe in reinforcement learning, especially goal-conditioned and offline field. -->
+- 📫 Currently, my research interest is to build reliable AI-powered systems to solve real-world problems
+- 🔭 My current focus areas are reinforcement learning algorithms (goal-conditioned and offline).
 
 <!--
 **pinqian77/pinqian77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

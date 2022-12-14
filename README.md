@@ -5,7 +5,7 @@
 #### About me
 - 😄 A senior undergraduate student at University of Liverpool. 
 - ⚡ Also a shutter manipulator and drone fan, exploring landscape around the world.
-- 📫 Currently, my research interest is to building AI-powered systems with reliable decision-making ability
+- 📫 Currently, my research interest is to building reliable AI-powered systems to solve real-world problems
 <!-- - 🔭 Interested and believe in reinforcement learning, especially goal-conditioned and offline field. -->
 
 <!--

@@ -1,9 +1,16 @@
-### Hi, I’m Pin Qian 👋
+### Hi, I’m Campion 👋
+
+😄 I'm a Master of AI Engineering student at [Carnegie Mellon University](https://www.cmu.edu/). I hold a Bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/). My interests primarily focus on building AI-powered systems to solve real-world problems. 
+
+🌱 Currently, I am seeking a summer 2024 internship where I can further apply and refine my skills in AI/ML and software engineering. If you have good job opportunities, please feel free to [email me](mailto:pqian@andrew.cmu.edu).
+
+Find me on:
+- [LinkedIn](https://www.linkedin.com/in/pinqian/)
+- [Email](mailto:pqian@andrew.cmu.edu)
 
 <!-- [![Campion's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinqian77&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-#### About me
-- 😄 A senior undergraduate student at University of Liverpool. 
+
 <!-- - ⚡ Also a shutter manipulator and drone fan, exploring landscape around the world.
 - 📫 Currently, my research interest is to build reliable AI-powered systems to solve real-world problems
 - 🔭 My current focus areas are reinforcement learning algorithms on portfolio optimation and robotic tasks. -->

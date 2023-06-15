@@ -2,7 +2,7 @@
 
 😄 I'm a Master of AI Engineering student at [Carnegie Mellon University](https://www.cmu.edu/). I hold a Bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/). My interests primarily focus on building AI-powered systems to solve real-world problems. 
 
-🌱 Currently, I am seeking a summer 2024 internship where I can further apply and refine my skills in AI/ML and software engineering. Please feel free to contact me if there are any available opportunities.
+🌱 Currently, I am seeking a **summer 2024 internship** where I can further apply and refine my skills in AI/ML and software engineering. Please feel free to contact me if there are any available opportunities.
 
 Find me on:
 - [LinkedIn](https://www.linkedin.com/in/pinqian/)

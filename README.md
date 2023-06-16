@@ -5,6 +5,7 @@
 🌱 Currently, I am seeking a **summer 2024 internship** where I can further apply and refine my skills in AI/ML and software engineering. Please feel free to contact me if there are any available opportunities.
 
 Find me on:
+- [Homepage](https://pinqian77.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/pinqian/)
 - [Email](mailto:pqian@andrew.cmu.edu)
 

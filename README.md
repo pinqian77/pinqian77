@@ -1,6 +1,8 @@
 ### Hi, I’m Campion 👋
 
-😄 I'm a Master of AI Engineering student at [Carnegie Mellon University](https://www.cmu.edu/). I hold a Bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/). My interests focus on building AI-powered systems to solve real-world problems. 
+😄 I'm a Master student at [Carnegie Mellon University](https://www.cmu.edu/). I hold a Bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/). My interests focus on building AI-powered systems to solve real-world problems. 
+
+🔭 I’m currently working on accelerating LLM inference.
 
 <!-- 🌱 Currently, I am seeking a **2024 summer internship** where I can further apply and refine my AI/ML and software engineering skills. Please feel free to contact me if there are any available opportunities.  -->
 

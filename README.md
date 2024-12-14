@@ -2,8 +2,6 @@
 
 😄 I'm a Master student at [Carnegie Mellon University](https://www.cmu.edu/). I hold a Bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/). My interests focus on RL, (V)LLM, and RecSys. I’m currently working on accelerating LLM inference.
 
-🔭 I will graduate in December 2024, and I am actively seeking NG opportunities related to AI/ML, including RL, (V)LLM, and RecSys.
-
 Find me on:
 - [Homepage](https://pinqian77.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/pinqian/)

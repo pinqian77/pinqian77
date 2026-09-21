@@ -1,30 +1,13 @@
-### Hi, I’m Campion 👋
+# Pin Qian (Campion)
 
-😄 I'm a Master student at [Carnegie Mellon University](https://www.cmu.edu/). I hold a Bachelor's degree in Computer Science from the [University of Liverpool](https://www.liverpool.ac.uk/). My interests focus on RL, (V)LLM, and RecSys. I’m currently working on accelerating LLM inference.
+**Research Engineer at Meta · Agent Post-Training & Training Infrastructure**
 
-Find me on:
-- [Homepage](https://pinqian77.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/pinqian/)
-- [Email](mailto:pqian@andrew.cmu.edu)
+My work includes:
+- Post-training computer-use agents for Ads.
+- Developing an internal post-training API for Meta teams.
 
-<!-- [![Campion's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinqian77&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+My interests include agent evaluation, reinforcement learning, and evaluation-driven model improvement.
 
+Previously, I worked on game-agent preference optimization at Tencent and LLM inference research at Carnegie Mellon University.
 
-<!-- - ⚡ Also a shutter manipulator and drone fan, exploring landscape around the world.
-- 📫 Currently, my research interest is to build reliable AI-powered systems to solve real-world problems
-- 🔭 My current focus areas are reinforcement learning algorithms on portfolio optimation and robotic tasks. -->
-
-<!--
-**pinqian77/pinqian77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Homepage](https://pinqian77.github.io/) · [LinkedIn](https://www.linkedin.com/in/pin-qian-2b15071ba/) · [Email](mailto:pinqian77@gmail.com)

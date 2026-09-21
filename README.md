@@ -3,7 +3,7 @@
 **Research Engineer at Meta · Agent Post-Training & Training Infrastructure**
 
 My work includes:
-- Post-training computer-use agents for Ads.
+- Post-training computer-use agents for Ads workflow.
 - Developing an internal post-training API for Meta teams.
 
 My interests include agent evaluation, reinforcement learning, and evaluation-driven model improvement.

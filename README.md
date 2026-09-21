@@ -4,7 +4,7 @@
 
 My work includes:
 - Post-training computer-use agents for Ads workflow.
-- Developing an internal post-training API for Meta teams.
+- Building an in-house, Tinker-like Post-Training as a Service (PTaaS) API for internal Meta teams.
 
 My interests include agent evaluation, reinforcement learning, and evaluation-driven model improvement.
 

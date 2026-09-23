@@ -1,10 +1,10 @@
 # Pin Qian (Campion)
 
-**Research Engineer at Meta · Agent Post-Training & Training Infrastructure**
+**Agent Eval & Post-Training**
 
 My work includes:
 - Post-training computer-use agents for Ads workflow.
-- Building an in-house, Tinker-like Post-Training as a Service (PTaaS) API for internal Meta teams.
+- Building in-house, Tinker-like Post-Training as a Service (PTaaS) for internal teams.
 
 My interests include agent evaluation, reinforcement learning, and evaluation-driven model improvement.
 
